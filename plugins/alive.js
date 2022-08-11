@@ -33,13 +33,13 @@ Module({
   var myid = message.client.user.id.split(":")[0]
   var buttons = [{
     urlButton: {
-        displayText: 'Github',
-        url: 'https://github.com/souravkl11/raganork'
+        displayText: 'Source',
+        url: 'https://github.com/Abhijith-Sudhakaran'
     }
 }, {
   urlButton: {
     displayText: 'Contact Owner',
-    url: 'https://wa.me/'+BOT_INFO.split(";")[2]+'?text=Hey+bro'
+    url: 'https://wa.me/'+BOT_INFO.split(";")[2]+'?text=Hey+dear'
     }
 }, {
     quickReplyButton: {
