@@ -39,7 +39,7 @@ Module({
 }, {
   urlButton: {
     displayText: 'Contact Owner',
-    url: 'https://wa.me/'+BOT_INFO.split(";")[2]+'?text=Hey+dear'
+    url: 'https://wa.me/+918137841760?text=Hey+dear'
     }
 }, {
     quickReplyButton: {
